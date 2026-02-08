@@ -1,0 +1,85 @@
+{
+  "testuser": [
+    {
+      "operand1": 5.0,
+      "operator": "+",
+      "operand2": 3.0,
+      "result": 8.0,
+      "timestamp": "2026-02-08T03:38:25.335212"
+    }
+  ],
+  "Mohammed": [
+    {
+      "operand1": 9.0,
+      "operator": "*",
+      "operand2": 6.0,
+      "result": 54.0,
+      "timestamp": "2026-02-08T04:03:54.195310"
+    },
+    {
+      "operand1": 54.0,
+      "operator": "/",
+      "operand2": 9.0,
+      "result": 6.0,
+      "timestamp": "2026-02-08T04:04:21.153689"
+    },
+    {
+      "operand1": 89.0,
+      "operator": "*",
+      "operand2": 1.0,
+      "result": 89.0,
+      "timestamp": "2026-02-08T04:11:19.706574"
+    },
+    {
+      "operand1": 9.0,
+      "operator": "*",
+      "operand2": 9.0,
+      "result": 81.0,
+      "timestamp": "2026-02-08T04:16:48.730787"
+    },
+    {
+      "operand1": 81.0,
+      "operator": "/",
+      "operand2": 9.0,
+      "result": 9.0,
+      "timestamp": "2026-02-08T04:18:39.179643"
+    },
+    {
+      "operand1": 0.0,
+      "operator": "+",
+      "operand2": 93.0,
+      "result": 93.0,
+      "timestamp": "2026-02-08T04:23:20.337241"
+    },
+    {
+      "operand1": 33.0,
+      "operator": "+",
+      "operand2": 3.0,
+      "result": 36.0,
+      "timestamp": "2026-02-08T04:23:38.104982"
+    }
+  ],
+  "TT": [
+    {
+      "operand1": 9.0,
+      "operator": "*",
+      "operand2": 8.0,
+      "result": 72.0,
+      "timestamp": "2026-02-08T04:32:39.171618"
+    },
+    {
+      "operand1": 8.0,
+      "operator": "*",
+      "operand2": 99.0,
+      "result": 792.0,
+      "timestamp": "2026-02-08T04:39:10.667843"
+    },
+    {
+      "operand1": 2.2,
+      "operator": "*",
+      "operand2": 2.0,
+      "result": 4.4,
+      "timestamp": "2026-02-08T04:40:34.120980"
+    }
+  ]
+}
